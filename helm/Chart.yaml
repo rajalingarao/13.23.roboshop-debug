@@ -1,0 +1,4 @@
+apiVersion: v1
+name: debug
+version: 1.0.0
+description: This chart is to manage debug application
